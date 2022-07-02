@@ -1,7 +1,2 @@
 # course
-hello 
-# hello for git hub
-course 
-
-ahmed awamleh
-jjjjsawe
+# ana hon
