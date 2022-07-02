@@ -2,3 +2,4 @@
 hello 
 # hello for git hub
 course 
+color = red
